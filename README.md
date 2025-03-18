@@ -32,7 +32,9 @@ Optimized user experience with intuitive input handling and efficient data manip
 
 **How to Reach Me**
 Email: anshikagupta2003@gmail.com 📧
+
 Phone: (917)-361-3646 📱
+
 LinkedIn: https://www.linkedin.com/in/anshikagupta2208 🔗
 
 **Interests**
