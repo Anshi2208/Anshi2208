@@ -29,3 +29,8 @@ Dictionary Management System | Final Course Project  🔤
 Collaborated with a partner to build an interactive Java-based dictionary application enabling users to add, delete, and update words through input-driven functionality.
 Integrated a statistics tracking feature to monitor user actions, providing insights into dictionary usage patterns.
 Optimized user experience with intuitive input handling and efficient data manipulation techniques.
+
+**How to Reach Me**
+Email: anshikagupta2003@gmail.com 📧
+Phone: (917)-361-3646 📱
+LinkedIn: https://www.linkedin.com/in/anshikagupta2208 🔗
