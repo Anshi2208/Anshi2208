@@ -34,3 +34,6 @@ Optimized user experience with intuitive input handling and efficient data manip
 Email: anshikagupta2003@gmail.com 📧
 Phone: (917)-361-3646 📱
 LinkedIn: https://www.linkedin.com/in/anshikagupta2208 🔗
+
+**Interests**
+Artificial Intelligence 🤖, Mathematics 📐, Teaching & Mentoring 🎓, Travel 🌍, Reading 📚, Listening Music 🎶, Fashion 👗, Food 🍽️
