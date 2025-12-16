@@ -12,7 +12,7 @@ Programming Languages: Java ☕, Python 🐍, C# 💻, HTML 🌐
 Tools & Frameworks: Git & GitHub 🛠️
 Languages: English 🗣️, Hindi 🏡, French 👶🏻, Korean👶🏻
 
-**Projects**
+**Projects**  
 Chemistry Simulator App ⚗️  
 Developed the periodic display screen showing interactive elements that unlock as players progress through game levels.   
 Implemented dynamic coloring, hover tooltips, and UI updates to communicate element status and game mechanics.   
