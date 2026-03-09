@@ -15,6 +15,7 @@ About Me<br><br>Hi there! I'm a passionate Computer Science major with an emphas
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anshi2208&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Anshi2208&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
