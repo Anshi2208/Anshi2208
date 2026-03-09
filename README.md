@@ -1,74 +1,20 @@
 ## Hi there 👋
+# 💫 About Me:
+About Me<br><br>Hi there! I'm a passionate Computer Science major with an emphasis on Artificial Intelligence 🤖 and Analytics 📊, and a minor in Mathematics 📐. I am deeply interested in AI research, teaching, and mentoring, always striving to push the boundaries of what technology can do. Currently, I’m focused on building cutting-edge AI systems while also refining my skills in data analytics, algorithms, and software engineering 🖥️.<br><br>In addition to my academic pursuits, I enjoy working on personal projects that combine my technical skills with creativity 🎨. Whether it’s tackling algorithmic challenges, contributing to open-source projects, or developing software solutions, I’m always eager to learn and collaborate 🤝.<br><br>Skills & Tech Stack<br><br>Programming Languages: Java ☕, Python 🐍, C# 💻, HTML 🌐 Tools & Frameworks: Git & GitHub 🛠️ Languages: English 🗣️, Hindi 🏡, French 👶🏻, Korean👶🏻<br><br>Projects<br>Chemistry Simulator App ⚗️<br>Developed the periodic display screen showing interactive elements that unlock as players progress through game levels.<br>Implemented dynamic coloring, hover tooltips, and UI updates to communicate element status and game mechanics.<br>Collaborated with the gameplay team to ensure smooth integration of UI components with level progression logic.<br><br>Sprite Editor 🎨<br>Built editing tools for a custom sprite editor including color selection, drawing tools, onion-skin overlays, and playback controls.<br>Implemented JSON-based loading and saving functionality for reusable sprite assets.<br>Coordinated with teammates to integrate tools into a cohesive UI, ensuring usability and workflow efficiency.<br><br>Simon Game 🎹<br>Developed a Simon memory game in Qt featuring interactive color sequences, two control buttons, and a real-time progress bar.<br>Implemented core game logic including sequence generation, player input validation, and a “Color Frenzy” mode for advanced difficulty.<br>Collaborated on UI design to ensure responsive feedback and smooth animations.<br><br>Intermountain Health Analytics Hackathon 🏥<br>Built a backend system to generate clinician SOAP notes in JSON format and began developing a GUI interface for user interaction.<br>Collaborated with a mentor and team members to present a functional prototype, gaining early exposure to frameworks aligned with coursework.<br><br>Snake Game GUI 🐍<br>Developed a classic Snake game using C# with an interactive GUI and real-time keyboard controls.<br>Implemented game loop mechanics, collision detection, score tracking, and dynamic speed adjustment.<br>Focused on clean code structure and modular design for easy updates and enhancements.<br><br>Spreadsheet GUI 📃<br>Developed a spreadsheet GUI using MVC architecture, integrating Dependency Graph and Formula classes.<br>Implemented real-time formula evaluation and efficient tracking of non-empty cells.<br>Designed and executed MS Test unit tests to ensure functionality and reliability.<br><br>Chat Client Web Application 💬<br>Built a real-time chat web application using Blazor and C# in Visual Studio, collaborating with a partner.<br>Established host-server communication enabling message exchange between multiple connected clients.<br>Implemented client-side and server-side logic to support message broadcasting and persistent connections.<br><br>Python Calculator 🧮<br>Designed and implemented a GUI-based scientific calculator using Python and Tkinter, featuring interactive buttons and colorful panels.<br>Streamlined user experience by providing essential arithmetic functions in an intuitive, visually appealing interface.<br><br>Three- Level Marriage Game 👰🏻<br>Collaborated with a partner to develop a multi-level game in java featuring interaction mechanics, a road crossing challenge with a random car movement algorithm, and a maze puzzle finale. Enhanced gameplay experience with progressively challenging levels and diverse interactive features, showcasing algorithmic problem-solving and user engagement.<br>Designed and created custom graphics for the game, enhancing visual appeal and user immersion.<br><br>Dictionary Management System 🔤<br>Collaborated with a partner to build an interactive Java-based dictionary application enabling users to add, delete, and update words through input-driven functionality. Integrated a statistics tracking feature to monitor user actions, providing insights into dictionary usage patterns. Optimized user experience with intuitive input handling and efficient data manipulation techniques.<br><br>How to Reach Me<br><br>Email: anshikagupta2003@gmail.com 📧<br><br>Phone: (917)-361-3646 📱<br><br>LinkedIn: https://www.linkedin.com/in/anshikagupta2208 🔗<br><br>Interests<br><br>Artificial Intelligence 🤖, Mathematics 📐, Teaching & Mentoring 🎓, Travel 🌍, Reading 📚, Listening Music 🎶, Fashion 👗, Food 🍽️
 
-**About Me**
 
-Hi there! I'm a passionate Computer Science major with an emphasis on Artificial Intelligence 🤖 and Analytics 📊, and a minor in Mathematics 📐. I am deeply interested in AI research, teaching, and mentoring, always striving to push the boundaries of what technology can do. Currently, I’m focused on building cutting-edge AI systems while also refining my skills in data analytics, algorithms, and software engineering 🖥️.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshikagupta2208) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikagupta2003@gmail.com) 
 
-In addition to my academic pursuits, I enjoy working on personal projects that combine my technical skills with creativity 🎨. Whether it’s tackling algorithmic challenges, contributing to open-source projects, or developing software solutions, I’m always eager to learn and collaborate 🤝.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anshi2208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anshi2208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshi2208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Skills & Tech Stack**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anshi2208&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Programming Languages: Java ☕, Python 🐍, C# 💻, HTML 🌐
-Tools & Frameworks: Git & GitHub 🛠️
-Languages: English 🗣️, Hindi 🏡, French 👶🏻, Korean👶🏻
-
-**Projects**  
-Chemistry Simulator App ⚗️  
-Developed the periodic display screen showing interactive elements that unlock as players progress through game levels.   
-Implemented dynamic coloring, hover tooltips, and UI updates to communicate element status and game mechanics.   
-Collaborated with the gameplay team to ensure smooth integration of UI components with level progression logic.  
-
-Sprite Editor 🎨  
-Built editing tools for a custom sprite editor including color selection, drawing tools, onion-skin overlays, and playback controls.   
-Implemented JSON-based loading and saving functionality for reusable sprite assets.   
-Coordinated with teammates to integrate tools into a cohesive UI, ensuring usability and workflow efficiency.  
-
-Simon Game 🎹  
-Developed a Simon memory game in Qt featuring interactive color sequences, two control buttons, and a real-time progress bar.   
-Implemented core game logic including sequence generation, player input validation, and a “Color Frenzy” mode for advanced difficulty.   
-Collaborated on UI design to ensure responsive feedback and smooth animations.  
-
-Intermountain Health Analytics Hackathon 🏥  
-Built a backend system to generate clinician SOAP notes in JSON format and began developing a GUI interface for user interaction.   
-Collaborated with a mentor and team members to present a functional prototype, gaining early exposure to frameworks aligned with coursework.  
-  
-Snake Game GUI 🐍  
-Developed a classic Snake game using C# with an interactive GUI and real-time keyboard controls.   
-Implemented game loop mechanics, collision detection, score tracking, and dynamic speed adjustment.   
-Focused on clean code structure and modular design for easy updates and enhancements.  
-
-Spreadsheet GUI 📃  
-Developed a spreadsheet GUI using MVC architecture, integrating Dependency Graph and Formula classes.   
-Implemented real-time formula evaluation and efficient tracking of non-empty cells.   
-Designed and executed MS Test unit tests to ensure functionality and reliability.  
-
-Chat Client Web Application 💬  
-Built a real-time chat web application using Blazor and C# in Visual Studio, collaborating with a partner.   
-Established host-server communication enabling message exchange between multiple connected clients.   
-Implemented client-side and server-side logic to support message broadcasting and persistent connections.  
-  
-Python Calculator 🧮  
-Designed and implemented a GUI-based scientific calculator using Python and Tkinter, featuring interactive buttons and colorful panels.  
-Streamlined user experience by providing essential arithmetic functions in an intuitive, visually appealing interface.    
-  
-Three- Level Marriage Game 👰🏻                                                                                        
-Collaborated with a partner to develop a multi-level game in java featuring interaction mechanics, a road crossing challenge with a random car movement algorithm, and a maze puzzle finale.
-Enhanced gameplay experience with progressively challenging levels and diverse interactive features, showcasing algorithmic problem-solving and user engagement.  
-Designed and created custom graphics for the game, enhancing visual appeal and user immersion.  
-
-Dictionary Management System 🔤                                                                                        
-Collaborated with a partner to build an interactive Java-based dictionary application enabling users to add, delete, and update words through input-driven functionality.
-Integrated a statistics tracking feature to monitor user actions, providing insights into dictionary usage patterns.
-Optimized user experience with intuitive input handling and efficient data manipulation techniques.
-
-**How to Reach Me**
-
-Email: anshikagupta2003@gmail.com 📧
-
-Phone: (917)-361-3646 📱
-
-LinkedIn: https://www.linkedin.com/in/anshikagupta2208 🔗
-
-**Interests**
-
-Artificial Intelligence 🤖, Mathematics 📐, Teaching & Mentoring 🎓, Travel 🌍, Reading 📚, Listening Music 🎶, Fashion 👗, Food 🍽️
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
